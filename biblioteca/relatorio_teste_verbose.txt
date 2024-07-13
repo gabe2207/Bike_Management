@@ -1,0 +1,6 @@
+test_borrow_book (test_library_system.TestLibrarySystem.test_borrow_book) ... ok
+test_return_book (test_library_system.TestLibrarySystem.test_return_book) ... ok
+test_search_books (test_library_system.TestLibrarySystem.test_search_books) ... ok
+
+Notificação: Alice, o livro 'Python Programming' está disponível.
+Notificação: Alice, o livro 'Python Programming' está disponível.
